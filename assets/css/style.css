@@ -1,0 +1,34 @@
+
+/*GENERAL STYLES*/
+
+
+
+/*NAVIGATION*/
+
+.navbar {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    border-bottom: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    border-radius: 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav .nav-link {
+    font-family: Arial, sans-serif;
+    color: #3b2f2f;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #3b2f2f; /* Ensure the color remains the same on hover */
+}
+
+.navbar-brand{color: #3b2f2f;}
+
+.brand-image{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: #3b2f2f;
+}
