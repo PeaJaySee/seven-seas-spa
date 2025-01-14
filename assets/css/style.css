@@ -61,3 +61,22 @@ h1, h2, h3, h4, h5, h6 {
     color: #3b2f2f;
 }
 
+/*SERVICES SECTION*/
+
+.services-section h2 {
+    font-family: "Handlee", sans-serif;
+    color: #3b2f2f;
+}
+
+.services-section p {
+    font-family: Arial, sans-serif;
+    color: #3b2f2f;
+    font-size: medium;
+}
+
+.services-section .img-fluid {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+
