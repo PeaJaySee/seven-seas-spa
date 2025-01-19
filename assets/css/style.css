@@ -105,14 +105,14 @@ hr {
 .tips-section h2 {
     font-family: "Handlee", sans-serif;
     color: #000000;
-    background-color: rgba(206, 191, 191, 0.8); 
+    background-color: rgba(206, 191, 191, 0.7); 
     margin:0;
 }
 
 .tips-section p {
     font-family: "Handlee", sans-serif;
     color: #000000;
-    background-color: rgba(206, 191, 191, 0.8); 
+    background-color: rgba(206, 191, 191, 0.7); 
     margin: 0;
 }
 
@@ -120,7 +120,7 @@ hr {
     list-style-type: none;
     padding: 0;
     margin: 0 auto;
-    background-color: rgba(206, 191, 191, 0.8);
+    background-color: rgba(206, 191, 191, 0.7);
 }
 
 
