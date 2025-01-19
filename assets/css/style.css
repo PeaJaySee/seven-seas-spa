@@ -129,3 +129,31 @@ hr {
     padding: 2px 0; /* Add padding to the li elements */
 }
 
+/*TESTIMONIAL SECTION*/
+
+.testimonial-section img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.testimonial-section p {
+    font-family: Arial, sans-serif;
+    color: #3b2f2f;
+    font-style: italic;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    border-radius: 50%; /* Make the icons circular */
+    padding: 10px; /* Add padding for better visibility */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    filter: invert(1); /* Invert the color of the icons */ 
+}
+
+
