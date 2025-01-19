@@ -157,3 +157,37 @@ hr {
 }
 
 
+/*FOOTER*/
+
+.footer {
+    background-color: #6F4E37;
+    color: #FFEBD4;
+}
+
+.footer div {
+    color: #FFEBD4;
+
+}
+
+.footer .social-icons a {
+    color: #FFEBD4;
+    margin-left: 10px;
+    font-size:1rem;
+}
+
+.footer .social-icons a:hover {
+    color: #cd7a1b;
+}
+
+/*MEDIA QUERIES*/
+
+@media screen and (max-width: 586px) {
+   
+    .tips-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height:80vh;
+    }
+}
